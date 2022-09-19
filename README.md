@@ -1,6 +1,6 @@
 # Source Codes for Some Data Science Competitions
 
-As part of my learning process in data science, I joined several past competitions in [Kaggle](kaggle.com) and [Drivendata](drivendata.org), then draft the best solutions:
+As part of my learning process in data science, I joined several past competitions in [Kaggle](https://www.kaggle.com/) and [Drivendata](https://www.drivendata.org/), then draft the best solutions:
 
 | No. | Competition Name                                                                                                      | Description                                                                                                                                                                                                          |
 |-----|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
